@@ -24,6 +24,6 @@ class Solution(object):
 
 # Example usage:
 solution = Solution()
-print(solution.canPlaceFlowers([0, 0, 0, 0, 0, 1, 0, 0], 0))  # Output: True ✅
-print(solution.canPlaceFlowers([1, 0, 0, 0, 1], 1))  # Output: True ✅
-print(solution.canPlaceFlowers([1, 0, 0, 0, 1], 2))  # Output: False ✅
+print(solution.canPlaceFlowers([0, 0, 0, 0, 0, 1, 0, 0], 0))  
+print(solution.canPlaceFlowers([1, 0, 0, 0, 1], 1)) 
+print(solution.canPlaceFlowers([1, 0, 0, 0, 1], 2))  
